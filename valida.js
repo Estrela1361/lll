@@ -11,7 +11,7 @@ function verificar(){
 		 document.getElementById("txtPratPrin").value="";
 		 document.getElementById("txtPratPrin").focus();
 		 document.getElementById("txtPratPrin").style.backgroundColor="#FF0000";
-		 return false;
+		 return false;vbvbvbv
 	}
 	else{
 	     window.alert("preenchimento OK");
