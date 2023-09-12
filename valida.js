@@ -6,7 +6,7 @@ function verificar(){
 		 document.getElementById("txtPratPrin").style.backgroundColor="#FF0000";
 		 return false;
 	}
-	else if(isNaN(n1)){
+	else if(isNaN(n1)){vvvvvvvvvvvvvvvvvv
 	     window.alert("digite APENAS números para a reserva");
 		 document.getElementById("txtPratPrin").value="";
 		 document.getElementById("txtPratPrin").focus();
